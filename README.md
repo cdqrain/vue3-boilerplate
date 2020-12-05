@@ -1,7 +1,7 @@
 # vue3-boilerplate
 
 A Vue 3 Starter Boilerplate with Vue Router 4, Vuex 4, Typescript 4, Webpack 5, Prettier and More.
-
+https://github.com/Jamie-Yang/vue3-boilerplate
 **And not using the Vue CLI.**
 
 ## Architecture
